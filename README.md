@@ -22,12 +22,19 @@ the default result is
 	
 you can change the build.py for your project
 
-the flag will be add soon
 
-this project is based on
+
+###this project is based on
 
 https://github.com/tellnes/country-flags
 
 and 
 
 https://github.com/mledoze/countries
+
+###for the flag
+
+there is a tool resize.py to resize the flag size, it is base on python PIL
+  
+ 	pip install pillow 
+
