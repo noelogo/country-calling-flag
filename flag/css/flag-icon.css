@@ -1,0 +1,1794 @@
+﻿/* glue: 0.9.4 hash: d0919dde44 */
+        .flag-icon-zimbabwe,
+.flag-icon-vanuatu,
+.flag-icon-uzbekistan,
+.flag-icon-united_states_of_america,
+.flag-icon-united_kingdom,
+.flag-icon-united_arab_emirates,
+.flag-icon-tuvalu,
+.flag-icon-trinidad_and_tobago,
+.flag-icon-tonga,
+.flag-icon-togo,
+.flag-icon-timor_leste,
+.flag-icon-tajikistan,
+.flag-icon-sweden,
+.flag-icon-sudan,
+.flag-icon-sri_lanka,
+.flag-icon-solomon_islands,
+.flag-icon-slovenia,
+.flag-icon-seychelles,
+.flag-icon-sao_tome_and_principe,
+.flag-icon-samoa,
+.flag-icon-saint_lucia,
+.flag-icon-qatar,
+.flag-icon-poland,
+.flag-icon-philippines,
+.flag-icon-paraguay,
+.flag-icon-palau,
+.flag-icon-oman,
+.flag-icon-nigeria,
+.flag-icon-nicaragua,
+.flag-icon-new_zealand,
+.flag-icon-nepal,
+.flag-icon-nauru,
+.flag-icon-montenegro,
+.flag-icon-mongolia,
+.flag-icon-moldova,
+.flag-icon-micronesia,
+.flag-icon-mexico,
+.flag-icon-marshall_islands,
+.flag-icon-malaysia,
+.flag-icon-macedonia,
+.flag-icon-luxembourg,
+.flag-icon-lithuania,
+.flag-icon-liechtenstein,
+.flag-icon-libya,
+.flag-icon-liberia,
+.flag-icon-latvia,
+.flag-icon-kyrgyzstan,
+.flag-icon-kuwait,
+.flag-icon-korea_north,
+.flag-icon-kiribati,
+.flag-icon-kazakhstan,
+.flag-icon-jordan,
+.flag-icon-jamaica,
+.flag-icon-ireland,
+.flag-icon-iran,
+.flag-icon-honduras,
+.flag-icon-haiti,
+.flag-icon-guyana,
+.flag-icon-guinea_bissau,
+.flag-icon-guatemala,
+.flag-icon-grenada,
+.flag-icon-germany,
+.flag-icon-finland,
+.flag-icon-fiji,
+.flag-icon-ethiopia,
+.flag-icon-estonia,
+.flag-icon-eritrea,
+.flag-icon-el_salvador,
+.flag-icon-ecuador,
+.flag-icon-dominican_republic,
+.flag-icon-dominica,
+.flag-icon-cyprus,
+.flag-icon-cuba,
+.flag-icon-croatia,
+.flag-icon-costa_rica,
+.flag-icon-comoros,
+.flag-icon-cape_verde,
+.flag-icon-canada,
+.flag-icon-burundi,
+.flag-icon-bulgaria,
+.flag-icon-brunei_darussalam,
+.flag-icon-bosnia_and_herzegovina,
+.flag-icon-belarus,
+.flag-icon-bangladesh,
+.flag-icon-bahrain,
+.flag-icon-bahamas,
+.flag-icon-azerbaijan,
+.flag-icon-australia,
+.flag-icon-zambia,
+.flag-icon-yemen,
+.flag-icon-vietnam,
+.flag-icon-venezuela,
+.flag-icon-uruguay,
+.flag-icon-ukraine,
+.flag-icon-uganda,
+.flag-icon-turkmenistan,
+.flag-icon-turkey,
+.flag-icon-tunisia,
+.flag-icon-thailand,
+.flag-icon-tanzania,
+.flag-icon-taiwan,
+.flag-icon-syria,
+.flag-icon-switzerland,
+.flag-icon-swaziland,
+.flag-icon-suriname,
+.flag-icon-spain,
+.flag-icon-south_africa,
+.flag-icon-somalia,
+.flag-icon-slovakia,
+.flag-icon-singapore,
+.flag-icon-sierra_leone,
+.flag-icon-serbia,
+.flag-icon-senegal,
+.flag-icon-saudi_arabia,
+.flag-icon-saint_vincent_and_the_grenadines,
+.flag-icon-saint_kitts_and_nevis,
+.flag-icon-rwanda,
+.flag-icon-russia,
+.flag-icon-romania,
+.flag-icon-puerto_rico,
+.flag-icon-portugal,
+.flag-icon-peru,
+.flag-icon-panama,
+.flag-icon-pakistan,
+.flag-icon-netherlands,
+.flag-icon-namibia,
+.flag-icon-mozambique,
+.flag-icon-morocco,
+.flag-icon-mauritius,
+.flag-icon-mauritania,
+.flag-icon-malta,
+.flag-icon-mali,
+.flag-icon-maldives,
+.flag-icon-malawi,
+.flag-icon-madagascar,
+.flag-icon-macau,
+.flag-icon-lesotho,
+.flag-icon-lebanon,
+.flag-icon-laos,
+.flag-icon-korea_south,
+.flag-icon-kenya,
+.flag-icon-japan,
+.flag-icon-italy,
+.flag-icon-iraq,
+.flag-icon-indonesia,
+.flag-icon-india,
+.flag-icon-hungary,
+.flag-icon-hong_kong,
+.flag-icon-guinea,
+.flag-icon-greece,
+.flag-icon-ghana,
+.flag-icon-georgia,
+.flag-icon-gambia,
+.flag-icon-france,
+.flag-icon-equatorial_guinea,
+.flag-icon-egypt,
+.flag-icon-djibouti,
+.flag-icon-czech_republic,
+.flag-icon-cote_d_ivoire,
+.flag-icon-congo_brazzaville,
+.flag-icon-colombia,
+.flag-icon-china,
+.flag-icon-chile,
+.flag-icon-chad,
+.flag-icon-central_african_republic,
+.flag-icon-cameroon,
+.flag-icon-cambodia,
+.flag-icon-burkina_faso,
+.flag-icon-botswana,
+.flag-icon-bhutan,
+.flag-icon-benin,
+.flag-icon-belize,
+.flag-icon-belgium,
+.flag-icon-armenia,
+.flag-icon-argentina,
+.flag-icon-antigua_and_barbuda,
+.flag-icon-afghanistan,
+.flag-icon-brazil,
+.flag-icon-bolivia,
+.flag-icon-barbados,
+.flag-icon-austria,
+.flag-icon-angola,
+.flag-icon-andorra,
+.flag-icon-algeria,
+.flag-icon-albania,
+.flag-icon-norway,
+.flag-icon-israel,
+.flag-icon-iceland,
+.flag-icon-san_marino,
+.flag-icon-monaco,
+.flag-icon-gabon,
+.flag-icon-faroe_islands,
+.flag-icon-congo_kinshasa,
+.flag-icon-papua_new_guinea,
+.flag-icon-denmark,
+.flag-icon-niger,
+.flag-icon-vatican_city {
+            background-image: url('flag-icon.png');
+            background-repeat: no-repeat;
+        }
+        
+        .flag-icon-zimbabwe {
+            background-position: -5px -5px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-vanuatu {
+            background-position: -5px -26px;
+            width: 22px;
+            height: 13px;
+        }
+        
+        .flag-icon-uzbekistan {
+            background-position: -37px -5px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-united_states_of_america {
+            background-position: -37px -26px;
+            width: 22px;
+            height: 12px;
+        }
+        
+        .flag-icon-united_kingdom {
+            background-position: -69px -5px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-united_arab_emirates {
+            background-position: -69px -26px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-tuvalu {
+            background-position: -5px -49px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-trinidad_and_tobago {
+            background-position: -5px -70px;
+            width: 22px;
+            height: 13px;
+        }
+        
+        .flag-icon-tonga {
+            background-position: -37px -49px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-togo {
+            background-position: -101px -5px;
+            width: 22px;
+            height: 14px;
+        }
+        
+        .flag-icon-timor_leste {
+            background-position: -101px -29px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-tajikistan {
+            background-position: -101px -50px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-sweden {
+            background-position: -5px -93px;
+            width: 22px;
+            height: 14px;
+        }
+        
+        .flag-icon-sudan {
+            background-position: -101px -71px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-sri_lanka {
+            background-position: -69px -49px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-solomon_islands {
+            background-position: -37px -70px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-slovenia {
+            background-position: -69px -70px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-seychelles {
+            background-position: -37px -93px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-sao_tome_and_principe {
+            background-position: -69px -93px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-samoa {
+            background-position: -101px -93px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-saint_lucia {
+            background-position: -133px -5px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-qatar {
+            background-position: -133px -26px;
+            width: 22px;
+            height: 9px;
+        }
+        
+        .flag-icon-poland {
+            background-position: -133px -45px;
+            width: 22px;
+            height: 14px;
+        }
+        
+        .flag-icon-philippines {
+            background-position: -133px -68px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-paraguay {
+            background-position: -133px -89px;
+            width: 22px;
+            height: 13px;
+        }
+        
+        .flag-icon-palau {
+            background-position: -5px -116px;
+            width: 22px;
+            height: 14px;
+        }
+        
+        .flag-icon-oman {
+            background-position: -37px -116px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-nigeria {
+            background-position: -69px -116px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-nicaragua {
+            background-position: -5px -140px;
+            width: 22px;
+            height: 13px;
+        }
+        
+        .flag-icon-new_zealand {
+            background-position: -101px -116px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-nepal {
+            background-position: -165px -5px;
+            width: 22px;
+            height: 14px;
+        }
+        
+        .flag-icon-nauru {
+            background-position: -165px -29px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-montenegro {
+            background-position: -165px -50px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-mongolia {
+            background-position: -165px -71px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-moldova {
+            background-position: -165px -92px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-micronesia {
+            background-position: -165px -113px;
+            width: 22px;
+            height: 12px;
+        }
+        
+        .flag-icon-mexico {
+            background-position: -165px -134px;
+            width: 22px;
+            height: 13px;
+        }
+        
+        .flag-icon-marshall_islands {
+            background-position: -37px -140px;
+            width: 22px;
+            height: 12px;
+        }
+        
+        .flag-icon-malaysia {
+            background-position: -133px -116px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-macedonia {
+            background-position: -69px -140px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-luxembourg {
+            background-position: -5px -163px;
+            width: 22px;
+            height: 13px;
+        }
+        
+        .flag-icon-lithuania {
+            background-position: -37px -163px;
+            width: 22px;
+            height: 13px;
+        }
+        
+        .flag-icon-liechtenstein {
+            background-position: -69px -163px;
+            width: 22px;
+            height: 13px;
+        }
+        
+        .flag-icon-libya {
+            background-position: -101px -140px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-liberia {
+            background-position: -101px -163px;
+            width: 22px;
+            height: 12px;
+        }
+        
+        .flag-icon-latvia {
+            background-position: -133px -140px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-kyrgyzstan {
+            background-position: -197px -5px;
+            width: 22px;
+            height: 13px;
+        }
+        
+        .flag-icon-kuwait {
+            background-position: -197px -28px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-korea_north {
+            background-position: -197px -49px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-kiribati {
+            background-position: -197px -70px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-kazakhstan {
+            background-position: -197px -91px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-jordan {
+            background-position: -197px -112px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-jamaica {
+            background-position: -197px -133px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-ireland {
+            background-position: -197px -154px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-iran {
+            background-position: -5px -186px;
+            width: 22px;
+            height: 13px;
+        }
+        
+        .flag-icon-honduras {
+            background-position: -133px -163px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-haiti {
+            background-position: -229px -5px;
+            width: 22px;
+            height: 13px;
+        }
+        
+        .flag-icon-guyana {
+            background-position: -229px -28px;
+            width: 22px;
+            height: 13px;
+        }
+        
+        .flag-icon-guinea_bissau {
+            background-position: -229px -51px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-guatemala {
+            background-position: -229px -72px;
+            width: 22px;
+            height: 14px;
+        }
+        
+        .flag-icon-grenada {
+            background-position: -229px -96px;
+            width: 22px;
+            height: 13px;
+        }
+        
+        .flag-icon-germany {
+            background-position: -229px -119px;
+            width: 22px;
+            height: 13px;
+        }
+        
+        .flag-icon-finland {
+            background-position: -229px -142px;
+            width: 22px;
+            height: 13px;
+        }
+        
+        .flag-icon-fiji {
+            background-position: -229px -165px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-ethiopia {
+            background-position: -229px -186px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-estonia {
+            background-position: -5px -208px;
+            width: 22px;
+            height: 14px;
+        }
+        
+        .flag-icon-eritrea {
+            background-position: -165px -163px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-el_salvador {
+            background-position: -37px -186px;
+            width: 22px;
+            height: 12px;
+        }
+        
+        .flag-icon-ecuador {
+            background-position: -69px -186px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-dominican_republic {
+            background-position: -37px -208px;
+            width: 22px;
+            height: 14px;
+        }
+        
+        .flag-icon-dominica {
+            background-position: -101px -186px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-cyprus {
+            background-position: -69px -208px;
+            width: 22px;
+            height: 13px;
+        }
+        
+        .flag-icon-cuba {
+            background-position: -133px -186px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-croatia {
+            background-position: -165px -186px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-costa_rica {
+            background-position: -101px -208px;
+            width: 22px;
+            height: 13px;
+        }
+        
+        .flag-icon-comoros {
+            background-position: -133px -208px;
+            width: 22px;
+            height: 13px;
+        }
+        
+        .flag-icon-cape_verde {
+            background-position: -165px -208px;
+            width: 22px;
+            height: 13px;
+        }
+        
+        .flag-icon-canada {
+            background-position: -197px -186px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-burundi {
+            background-position: -5px -232px;
+            width: 22px;
+            height: 13px;
+        }
+        
+        .flag-icon-bulgaria {
+            background-position: -37px -232px;
+            width: 22px;
+            height: 13px;
+        }
+        
+        .flag-icon-brunei_darussalam {
+            background-position: -197px -208px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-bosnia_and_herzegovina {
+            background-position: -229px -208px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-belarus {
+            background-position: -69px -232px;
+            width: 22px;
+            height: 13px;
+        }
+        
+        .flag-icon-bangladesh {
+            background-position: -261px -5px;
+            width: 22px;
+            height: 13px;
+        }
+        
+        .flag-icon-bahrain {
+            background-position: -261px -28px;
+            width: 22px;
+            height: 13px;
+        }
+        
+        .flag-icon-bahamas {
+            background-position: -261px -51px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-azerbaijan {
+            background-position: -261px -72px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-australia {
+            background-position: -261px -93px;
+            width: 22px;
+            height: 11px;
+        }
+        
+        .flag-icon-zambia {
+            background-position: -261px -114px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-yemen {
+            background-position: -261px -138px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-vietnam {
+            background-position: -261px -162px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-venezuela {
+            background-position: -261px -186px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-uruguay {
+            background-position: -261px -210px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-ukraine {
+            background-position: -5px -255px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-uganda {
+            background-position: -36px -255px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-turkmenistan {
+            background-position: -67px -255px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-turkey {
+            background-position: -98px -255px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-tunisia {
+            background-position: -129px -255px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-thailand {
+            background-position: -160px -255px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-tanzania {
+            background-position: -191px -255px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-taiwan {
+            background-position: -222px -255px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-syria {
+            background-position: -253px -255px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-switzerland {
+            background-position: -293px -5px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-swaziland {
+            background-position: -293px -29px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-suriname {
+            background-position: -293px -53px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-spain {
+            background-position: -293px -77px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-south_africa {
+            background-position: -293px -101px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-somalia {
+            background-position: -293px -125px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-slovakia {
+            background-position: -293px -149px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-singapore {
+            background-position: -293px -173px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-sierra_leone {
+            background-position: -293px -197px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-serbia {
+            background-position: -293px -221px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-senegal {
+            background-position: -293px -245px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-saudi_arabia {
+            background-position: -5px -279px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-saint_vincent_and_the_grenadines {
+            background-position: -36px -279px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-saint_kitts_and_nevis {
+            background-position: -67px -279px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-rwanda {
+            background-position: -98px -279px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-russia {
+            background-position: -129px -279px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-romania {
+            background-position: -160px -279px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-puerto_rico {
+            background-position: -191px -279px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-portugal {
+            background-position: -222px -279px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-peru {
+            background-position: -253px -279px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-panama {
+            background-position: -284px -279px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-pakistan {
+            background-position: -324px -5px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-netherlands {
+            background-position: -324px -29px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-namibia {
+            background-position: -324px -53px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-mozambique {
+            background-position: -324px -77px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-morocco {
+            background-position: -324px -101px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-mauritius {
+            background-position: -324px -125px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-mauritania {
+            background-position: -324px -149px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-malta {
+            background-position: -324px -173px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-mali {
+            background-position: -324px -197px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-maldives {
+            background-position: -324px -221px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-malawi {
+            background-position: -324px -245px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-madagascar {
+            background-position: -324px -269px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-macau {
+            background-position: -5px -303px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-lesotho {
+            background-position: -36px -303px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-lebanon {
+            background-position: -67px -303px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-laos {
+            background-position: -98px -303px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-korea_south {
+            background-position: -129px -303px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-kenya {
+            background-position: -160px -303px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-japan {
+            background-position: -191px -303px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-italy {
+            background-position: -222px -303px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-iraq {
+            background-position: -253px -303px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-indonesia {
+            background-position: -284px -303px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-india {
+            background-position: -315px -303px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-hungary {
+            background-position: -5px -327px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-hong_kong {
+            background-position: -36px -327px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-guinea {
+            background-position: -67px -327px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-greece {
+            background-position: -98px -327px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-ghana {
+            background-position: -129px -327px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-georgia {
+            background-position: -160px -327px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-gambia {
+            background-position: -191px -327px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-france {
+            background-position: -222px -327px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-equatorial_guinea {
+            background-position: -253px -327px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-egypt {
+            background-position: -284px -327px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-djibouti {
+            background-position: -315px -327px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-czech_republic {
+            background-position: -355px -5px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-cote_d_ivoire {
+            background-position: -355px -29px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-congo_brazzaville {
+            background-position: -355px -53px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-colombia {
+            background-position: -355px -77px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-china {
+            background-position: -355px -101px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-chile {
+            background-position: -355px -125px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-chad {
+            background-position: -355px -149px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-central_african_republic {
+            background-position: -355px -173px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-cameroon {
+            background-position: -355px -197px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-cambodia {
+            background-position: -355px -221px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-burkina_faso {
+            background-position: -355px -245px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-botswana {
+            background-position: -355px -269px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-bhutan {
+            background-position: -355px -293px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-benin {
+            background-position: -355px -317px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-belize {
+            background-position: -5px -351px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-belgium {
+            background-position: -36px -351px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-armenia {
+            background-position: -67px -351px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-argentina {
+            background-position: -98px -351px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-antigua_and_barbuda {
+            background-position: -129px -351px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-afghanistan {
+            background-position: -160px -351px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-brazil {
+            background-position: -191px -351px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-bolivia {
+            background-position: -222px -351px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-barbados {
+            background-position: -252px -351px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-austria {
+            background-position: -283px -351px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-angola {
+            background-position: -313px -351px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-andorra {
+            background-position: -344px -351px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-algeria {
+            background-position: -386px -5px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-albania {
+            background-position: -386px -29px;
+            width: 21px;
+            height: 14px;
+        }
+        
+        .flag-icon-norway {
+            background-position: -386px -53px;
+            width: 20px;
+            height: 14px;
+        }
+        
+        .flag-icon-israel {
+            background-position: -386px -77px;
+            width: 20px;
+            height: 14px;
+        }
+        
+        .flag-icon-iceland {
+            background-position: -386px -101px;
+            width: 20px;
+            height: 14px;
+        }
+        
+        .flag-icon-san_marino {
+            background-position: -386px -125px;
+            width: 19px;
+            height: 14px;
+        }
+        
+        .flag-icon-monaco {
+            background-position: -386px -149px;
+            width: 19px;
+            height: 14px;
+        }
+        
+        .flag-icon-gabon {
+            background-position: -386px -173px;
+            width: 19px;
+            height: 14px;
+        }
+        
+        .flag-icon-faroe_islands {
+            background-position: -386px -197px;
+            width: 19px;
+            height: 14px;
+        }
+        
+        .flag-icon-congo_kinshasa {
+            background-position: -386px -221px;
+            width: 19px;
+            height: 14px;
+        }
+        
+        .flag-icon-papua_new_guinea {
+            background-position: -386px -245px;
+            width: 19px;
+            height: 14px;
+        }
+        
+        .flag-icon-denmark {
+            background-position: -386px -269px;
+            width: 19px;
+            height: 14px;
+        }
+        
+        .flag-icon-niger {
+            background-position: -386px -293px;
+            width: 17px;
+            height: 14px;
+        }
+        
+        .flag-icon-vatican_city {
+            background-position: -386px -317px;
+            width: 14px;
+            height: 14px;
+        }
+        
+        @media screen and (-webkit-min-device-pixel-ratio: 1.0), screen and (min--moz-device-pixel-ratio: 1.0), screen and (-o-min-device-pixel-ratio: 100/100), screen and (min-device-pixel-ratio: 1.0), screen and (min-resolution: 1.0dppx) {
+            .flag-icon-zimbabwe,
+    .flag-icon-vanuatu,
+    .flag-icon-uzbekistan,
+    .flag-icon-united_states_of_america,
+    .flag-icon-united_kingdom,
+    .flag-icon-united_arab_emirates,
+    .flag-icon-tuvalu,
+    .flag-icon-trinidad_and_tobago,
+    .flag-icon-tonga,
+    .flag-icon-togo,
+    .flag-icon-timor_leste,
+    .flag-icon-tajikistan,
+    .flag-icon-sweden,
+    .flag-icon-sudan,
+    .flag-icon-sri_lanka,
+    .flag-icon-solomon_islands,
+    .flag-icon-slovenia,
+    .flag-icon-seychelles,
+    .flag-icon-sao_tome_and_principe,
+    .flag-icon-samoa,
+    .flag-icon-saint_lucia,
+    .flag-icon-qatar,
+    .flag-icon-poland,
+    .flag-icon-philippines,
+    .flag-icon-paraguay,
+    .flag-icon-palau,
+    .flag-icon-oman,
+    .flag-icon-nigeria,
+    .flag-icon-nicaragua,
+    .flag-icon-new_zealand,
+    .flag-icon-nepal,
+    .flag-icon-nauru,
+    .flag-icon-montenegro,
+    .flag-icon-mongolia,
+    .flag-icon-moldova,
+    .flag-icon-micronesia,
+    .flag-icon-mexico,
+    .flag-icon-marshall_islands,
+    .flag-icon-malaysia,
+    .flag-icon-macedonia,
+    .flag-icon-luxembourg,
+    .flag-icon-lithuania,
+    .flag-icon-liechtenstein,
+    .flag-icon-libya,
+    .flag-icon-liberia,
+    .flag-icon-latvia,
+    .flag-icon-kyrgyzstan,
+    .flag-icon-kuwait,
+    .flag-icon-korea_north,
+    .flag-icon-kiribati,
+    .flag-icon-kazakhstan,
+    .flag-icon-jordan,
+    .flag-icon-jamaica,
+    .flag-icon-ireland,
+    .flag-icon-iran,
+    .flag-icon-honduras,
+    .flag-icon-haiti,
+    .flag-icon-guyana,
+    .flag-icon-guinea_bissau,
+    .flag-icon-guatemala,
+    .flag-icon-grenada,
+    .flag-icon-germany,
+    .flag-icon-finland,
+    .flag-icon-fiji,
+    .flag-icon-ethiopia,
+    .flag-icon-estonia,
+    .flag-icon-eritrea,
+    .flag-icon-el_salvador,
+    .flag-icon-ecuador,
+    .flag-icon-dominican_republic,
+    .flag-icon-dominica,
+    .flag-icon-cyprus,
+    .flag-icon-cuba,
+    .flag-icon-croatia,
+    .flag-icon-costa_rica,
+    .flag-icon-comoros,
+    .flag-icon-cape_verde,
+    .flag-icon-canada,
+    .flag-icon-burundi,
+    .flag-icon-bulgaria,
+    .flag-icon-brunei_darussalam,
+    .flag-icon-bosnia_and_herzegovina,
+    .flag-icon-belarus,
+    .flag-icon-bangladesh,
+    .flag-icon-bahrain,
+    .flag-icon-bahamas,
+    .flag-icon-azerbaijan,
+    .flag-icon-australia,
+    .flag-icon-zambia,
+    .flag-icon-yemen,
+    .flag-icon-vietnam,
+    .flag-icon-venezuela,
+    .flag-icon-uruguay,
+    .flag-icon-ukraine,
+    .flag-icon-uganda,
+    .flag-icon-turkmenistan,
+    .flag-icon-turkey,
+    .flag-icon-tunisia,
+    .flag-icon-thailand,
+    .flag-icon-tanzania,
+    .flag-icon-taiwan,
+    .flag-icon-syria,
+    .flag-icon-switzerland,
+    .flag-icon-swaziland,
+    .flag-icon-suriname,
+    .flag-icon-spain,
+    .flag-icon-south_africa,
+    .flag-icon-somalia,
+    .flag-icon-slovakia,
+    .flag-icon-singapore,
+    .flag-icon-sierra_leone,
+    .flag-icon-serbia,
+    .flag-icon-senegal,
+    .flag-icon-saudi_arabia,
+    .flag-icon-saint_vincent_and_the_grenadines,
+    .flag-icon-saint_kitts_and_nevis,
+    .flag-icon-rwanda,
+    .flag-icon-russia,
+    .flag-icon-romania,
+    .flag-icon-puerto_rico,
+    .flag-icon-portugal,
+    .flag-icon-peru,
+    .flag-icon-panama,
+    .flag-icon-pakistan,
+    .flag-icon-netherlands,
+    .flag-icon-namibia,
+    .flag-icon-mozambique,
+    .flag-icon-morocco,
+    .flag-icon-mauritius,
+    .flag-icon-mauritania,
+    .flag-icon-malta,
+    .flag-icon-mali,
+    .flag-icon-maldives,
+    .flag-icon-malawi,
+    .flag-icon-madagascar,
+    .flag-icon-macau,
+    .flag-icon-lesotho,
+    .flag-icon-lebanon,
+    .flag-icon-laos,
+    .flag-icon-korea_south,
+    .flag-icon-kenya,
+    .flag-icon-japan,
+    .flag-icon-italy,
+    .flag-icon-iraq,
+    .flag-icon-indonesia,
+    .flag-icon-india,
+    .flag-icon-hungary,
+    .flag-icon-hong_kong,
+    .flag-icon-guinea,
+    .flag-icon-greece,
+    .flag-icon-ghana,
+    .flag-icon-georgia,
+    .flag-icon-gambia,
+    .flag-icon-france,
+    .flag-icon-equatorial_guinea,
+    .flag-icon-egypt,
+    .flag-icon-djibouti,
+    .flag-icon-czech_republic,
+    .flag-icon-cote_d_ivoire,
+    .flag-icon-congo_brazzaville,
+    .flag-icon-colombia,
+    .flag-icon-china,
+    .flag-icon-chile,
+    .flag-icon-chad,
+    .flag-icon-central_african_republic,
+    .flag-icon-cameroon,
+    .flag-icon-cambodia,
+    .flag-icon-burkina_faso,
+    .flag-icon-botswana,
+    .flag-icon-bhutan,
+    .flag-icon-benin,
+    .flag-icon-belize,
+    .flag-icon-belgium,
+    .flag-icon-armenia,
+    .flag-icon-argentina,
+    .flag-icon-antigua_and_barbuda,
+    .flag-icon-afghanistan,
+    .flag-icon-brazil,
+    .flag-icon-bolivia,
+    .flag-icon-barbados,
+    .flag-icon-austria,
+    .flag-icon-angola,
+    .flag-icon-andorra,
+    .flag-icon-algeria,
+    .flag-icon-albania,
+    .flag-icon-norway,
+    .flag-icon-israel,
+    .flag-icon-iceland,
+    .flag-icon-san_marino,
+    .flag-icon-monaco,
+    .flag-icon-gabon,
+    .flag-icon-faroe_islands,
+    .flag-icon-congo_kinshasa,
+    .flag-icon-papua_new_guinea,
+    .flag-icon-denmark,
+    .flag-icon-niger,
+    .flag-icon-vatican_city {
+                background-image: url('flag-icon.png');
+                -webkit-background-size: 412px 370px;
+                -moz-background-size: 412px 370px;
+                background-size: 412px 370px;
+            }
+        }
+        
+        @media screen and (-webkit-min-device-pixel-ratio: 2.0), screen and (min--moz-device-pixel-ratio: 2.0), screen and (-o-min-device-pixel-ratio: 200/100), screen and (min-device-pixel-ratio: 2.0), screen and (min-resolution: 2.0dppx) {
+            .flag-icon-zimbabwe,
+    .flag-icon-vanuatu,
+    .flag-icon-uzbekistan,
+    .flag-icon-united_states_of_america,
+    .flag-icon-united_kingdom,
+    .flag-icon-united_arab_emirates,
+    .flag-icon-tuvalu,
+    .flag-icon-trinidad_and_tobago,
+    .flag-icon-tonga,
+    .flag-icon-togo,
+    .flag-icon-timor_leste,
+    .flag-icon-tajikistan,
+    .flag-icon-sweden,
+    .flag-icon-sudan,
+    .flag-icon-sri_lanka,
+    .flag-icon-solomon_islands,
+    .flag-icon-slovenia,
+    .flag-icon-seychelles,
+    .flag-icon-sao_tome_and_principe,
+    .flag-icon-samoa,
+    .flag-icon-saint_lucia,
+    .flag-icon-qatar,
+    .flag-icon-poland,
+    .flag-icon-philippines,
+    .flag-icon-paraguay,
+    .flag-icon-palau,
+    .flag-icon-oman,
+    .flag-icon-nigeria,
+    .flag-icon-nicaragua,
+    .flag-icon-new_zealand,
+    .flag-icon-nepal,
+    .flag-icon-nauru,
+    .flag-icon-montenegro,
+    .flag-icon-mongolia,
+    .flag-icon-moldova,
+    .flag-icon-micronesia,
+    .flag-icon-mexico,
+    .flag-icon-marshall_islands,
+    .flag-icon-malaysia,
+    .flag-icon-macedonia,
+    .flag-icon-luxembourg,
+    .flag-icon-lithuania,
+    .flag-icon-liechtenstein,
+    .flag-icon-libya,
+    .flag-icon-liberia,
+    .flag-icon-latvia,
+    .flag-icon-kyrgyzstan,
+    .flag-icon-kuwait,
+    .flag-icon-korea_north,
+    .flag-icon-kiribati,
+    .flag-icon-kazakhstan,
+    .flag-icon-jordan,
+    .flag-icon-jamaica,
+    .flag-icon-ireland,
+    .flag-icon-iran,
+    .flag-icon-honduras,
+    .flag-icon-haiti,
+    .flag-icon-guyana,
+    .flag-icon-guinea_bissau,
+    .flag-icon-guatemala,
+    .flag-icon-grenada,
+    .flag-icon-germany,
+    .flag-icon-finland,
+    .flag-icon-fiji,
+    .flag-icon-ethiopia,
+    .flag-icon-estonia,
+    .flag-icon-eritrea,
+    .flag-icon-el_salvador,
+    .flag-icon-ecuador,
+    .flag-icon-dominican_republic,
+    .flag-icon-dominica,
+    .flag-icon-cyprus,
+    .flag-icon-cuba,
+    .flag-icon-croatia,
+    .flag-icon-costa_rica,
+    .flag-icon-comoros,
+    .flag-icon-cape_verde,
+    .flag-icon-canada,
+    .flag-icon-burundi,
+    .flag-icon-bulgaria,
+    .flag-icon-brunei_darussalam,
+    .flag-icon-bosnia_and_herzegovina,
+    .flag-icon-belarus,
+    .flag-icon-bangladesh,
+    .flag-icon-bahrain,
+    .flag-icon-bahamas,
+    .flag-icon-azerbaijan,
+    .flag-icon-australia,
+    .flag-icon-zambia,
+    .flag-icon-yemen,
+    .flag-icon-vietnam,
+    .flag-icon-venezuela,
+    .flag-icon-uruguay,
+    .flag-icon-ukraine,
+    .flag-icon-uganda,
+    .flag-icon-turkmenistan,
+    .flag-icon-turkey,
+    .flag-icon-tunisia,
+    .flag-icon-thailand,
+    .flag-icon-tanzania,
+    .flag-icon-taiwan,
+    .flag-icon-syria,
+    .flag-icon-switzerland,
+    .flag-icon-swaziland,
+    .flag-icon-suriname,
+    .flag-icon-spain,
+    .flag-icon-south_africa,
+    .flag-icon-somalia,
+    .flag-icon-slovakia,
+    .flag-icon-singapore,
+    .flag-icon-sierra_leone,
+    .flag-icon-serbia,
+    .flag-icon-senegal,
+    .flag-icon-saudi_arabia,
+    .flag-icon-saint_vincent_and_the_grenadines,
+    .flag-icon-saint_kitts_and_nevis,
+    .flag-icon-rwanda,
+    .flag-icon-russia,
+    .flag-icon-romania,
+    .flag-icon-puerto_rico,
+    .flag-icon-portugal,
+    .flag-icon-peru,
+    .flag-icon-panama,
+    .flag-icon-pakistan,
+    .flag-icon-netherlands,
+    .flag-icon-namibia,
+    .flag-icon-mozambique,
+    .flag-icon-morocco,
+    .flag-icon-mauritius,
+    .flag-icon-mauritania,
+    .flag-icon-malta,
+    .flag-icon-mali,
+    .flag-icon-maldives,
+    .flag-icon-malawi,
+    .flag-icon-madagascar,
+    .flag-icon-macau,
+    .flag-icon-lesotho,
+    .flag-icon-lebanon,
+    .flag-icon-laos,
+    .flag-icon-korea_south,
+    .flag-icon-kenya,
+    .flag-icon-japan,
+    .flag-icon-italy,
+    .flag-icon-iraq,
+    .flag-icon-indonesia,
+    .flag-icon-india,
+    .flag-icon-hungary,
+    .flag-icon-hong_kong,
+    .flag-icon-guinea,
+    .flag-icon-greece,
+    .flag-icon-ghana,
+    .flag-icon-georgia,
+    .flag-icon-gambia,
+    .flag-icon-france,
+    .flag-icon-equatorial_guinea,
+    .flag-icon-egypt,
+    .flag-icon-djibouti,
+    .flag-icon-czech_republic,
+    .flag-icon-cote_d_ivoire,
+    .flag-icon-congo_brazzaville,
+    .flag-icon-colombia,
+    .flag-icon-china,
+    .flag-icon-chile,
+    .flag-icon-chad,
+    .flag-icon-central_african_republic,
+    .flag-icon-cameroon,
+    .flag-icon-cambodia,
+    .flag-icon-burkina_faso,
+    .flag-icon-botswana,
+    .flag-icon-bhutan,
+    .flag-icon-benin,
+    .flag-icon-belize,
+    .flag-icon-belgium,
+    .flag-icon-armenia,
+    .flag-icon-argentina,
+    .flag-icon-antigua_and_barbuda,
+    .flag-icon-afghanistan,
+    .flag-icon-brazil,
+    .flag-icon-bolivia,
+    .flag-icon-barbados,
+    .flag-icon-austria,
+    .flag-icon-angola,
+    .flag-icon-andorra,
+    .flag-icon-algeria,
+    .flag-icon-albania,
+    .flag-icon-norway,
+    .flag-icon-israel,
+    .flag-icon-iceland,
+    .flag-icon-san_marino,
+    .flag-icon-monaco,
+    .flag-icon-gabon,
+    .flag-icon-faroe_islands,
+    .flag-icon-congo_kinshasa,
+    .flag-icon-papua_new_guinea,
+    .flag-icon-denmark,
+    .flag-icon-niger,
+    .flag-icon-vatican_city {
+                background-image: url('flag-icon@2x.png');
+                -webkit-background-size: 412px 370px;
+                -moz-background-size: 412px 370px;
+                background-size: 412px 370px;
+            }
+        }
+        

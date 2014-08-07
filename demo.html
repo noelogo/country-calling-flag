@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset='utf-8'>
+   <title>Profero-China/DFS-Consumer at new-design</title>
+   <link href="flag/css/flag-icon.css" media="all" rel="stylesheet" type="text/css" />
+   <style>
+    body{font-size:14px;}
+    span{margin-right:20px}
+    i{display:inline-block;margin-right:20px}
+   </style>
+   <script src="http://cdn.staticfile.org/jquery/2.0.3/jquery.js"></script>
+   <script> 
+          $.ajax({
+            type: "get",
+            dataType: "json",
+            url: "country.json",
+            complete :function(){$("#load").hide();},
+            success: function(msg){
+              var html = $("<div></div>")
+              $(msg).each(function(i,item){
+                var p = $("<p></p>")
+                var icon = $("<i></i>")
+                icon.addClass("flag-icon-"+item.en.toLowerCase().replace(" ","_"))
+                var span1 = $("<span></span>").html(item.en)
+                var span2 = $("<span></span>").html(item.ch)
+                var span3 = $("<span></span>").html(item.ja)
+                var call  = $("<span></span>").html(item.call)
+                p.append(icon)
+                p.append(span1)
+                p.append(span2)
+                p.append(span3)
+                p.append(call)
+                html.append(p)
+
+              })
+              $("#main").append(html)
+            }
+          })
+   </script>
+</head>
+
+<body>
+  <div id="main">
+  
+  </div>
+
+</body>
+</html>
