@@ -8,6 +8,7 @@ for imgpath in imglist:
     # here i use 44*28 size for the icon
     img.thumbnail((44,28))
     buildpath = imgpath.replace(".gif",".png")
+    buildpath = buildpath.replace("_","-")
     buildpath = buildpath.replace("flag-img/","flag-icon/")
     img.save(buildpath,"png")
 
