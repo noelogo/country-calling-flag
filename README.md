@@ -43,4 +43,5 @@ there is a tool resize.py to resize the flag size, it is base on python PIL
 build a css spirit for the icons
 
 ### demo
-there is a demo :demo.hmtl
+there is a demo 
+http://tokki.github.io/country-calling-flag/demo.html
