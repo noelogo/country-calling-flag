@@ -14,6 +14,7 @@ for e in obj:
             nset = {}
             nset["en"]=e["name"]
             nset["call"]= el
+            nset["cca3"]= e["cca3"]
             nset["ja"]=e["translations"]["ja"]
             nset["ch"]=e["translations"]["ch"]
             newlist.append(nset)
